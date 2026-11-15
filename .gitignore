@@ -10,14 +10,13 @@ target
 
 # IDE
 .idea/
-.vscode/
 *.swp
 *.swo
 
 # Environment
-.env
-.env.*
 !.env.example
 
 # Logs
 *.log
+config.bat
+node_modules
